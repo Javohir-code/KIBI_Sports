@@ -13,7 +13,8 @@ I did not add config folder to being the looks secure, it is ignored by git. So,
 
 
 // Packages and technologies used:
-The project developed by using MVC architecture
+
+   The project developed by using MVC architecture
 
    Nodejs(Express) is used to development
    
