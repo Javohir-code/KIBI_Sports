@@ -10,7 +10,7 @@ I did not add config folder to being the looks secure, it is ignored by git. So,
 
 
 // Packages and technologies used:
-The project is developed by using MVC architecture
+The project developed by using MVC architecture
 Nodejs(Express) is used to development
 Mongodb database is used to store the data with mongoose package
 Twilio is used to send verification code to login
