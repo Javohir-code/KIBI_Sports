@@ -2,8 +2,9 @@
 Backend task of the KIBI Sports
 
 // Installation of the project
-Running the project:  npm install
-
+Running the project:  
+ 
+                      npm install
                       npm run dev
                  
 // Config and environment variables                
